@@ -2,6 +2,7 @@
 layout: post
 title: OTA
 date: 2014-10-08 19:12:31.000000000 -05:00
+summary: So, there's this problem on the Internet and its being caused by a seeming lack of foresight. What a shock! I am referring to iOS 8's (not so) mysterious stall in upgrade pace.
 ---
 So, there's this problem on the Internet and its being caused by a seeming lack of foresight. What a shock! I am referring to iOS 8's (not so) mysterious stall in upgrade pace. The prime suspect is a lack of free space on the target devices. iOS 8 asks for 5GB of free space on the disk for update. That's a near impossible ask for devices with only 16GB of onboard storage. After the OS taking up about 4 and people using the device for a year taking photos and installing apps, not much is really left. I personally know people who constantly tap "OK" on low space warning on their device. It's unacceptable that Apple still sells these! Anyway, let's talk about *why* iOS 8 needs 5BG of free space.
 
