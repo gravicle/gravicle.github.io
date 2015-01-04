@@ -11,8 +11,8 @@ google_analytics:
 
 # Optional features
 animated:           true
-show_related_posts: false
-show_post_footers:  false
+show_related_posts: true
+show_post_footers:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -34,6 +34,6 @@ markdown:     redcarpet
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     3
+paginate:     15
 sass:
   compressed: true
