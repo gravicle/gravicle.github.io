@@ -1,0 +1,33 @@
+---
+layout: post
+title: "$AAPL"
+date: 2013-04-21 15:55:32.000000000 -05:00
+---
+Apple&#8217; stock has been hit pretty hard lately. On April 17, it sank to $398.11, <a href="http://techcrunch.com/2013/04/17/apple-shares-drop-below-400-representing-a-16-month-low/">the lowest it has been in 16 months</a>. It is in response to the <em>speculations</em> that Apple&#8217;s <a href="http://investor.apple.com">imminent</a> earnings report and guidance for the coming quarter will be abysmal. What triggered the tumble was a <a href="http://www.reuters.com/article/2013/04/17/us-apple-shares-idUSBRE93G0PA20130417">weak guidance from Cirrus Logic</a>, an audio-chip supplier for iOS devices. To most investors, component makers for Apple serve as proxy-investments into the company and hence, this panic over <a href="http://appleinsider.com/articles/13/01/23/attempting-to-decipher-supply-chain-data-is-a-fools-errand-tim-cook-says">a single supplier report</a>. Stock markets are volatile and irrational and I am not qualified to talk about their behavior. However, here I <em>try</em> to understand the reasons why Apple is being punished at the Wall Street.
+
+<h3>The irrational street</h3>
+
+<p>I am certain that there are a million more reasons, some <a href="http://www.advisorone.com/2012/10/15/8-stock-market-omens-that-influence-investors">incredulous</a>, for why the stocks market acts the way it does. However, I believe that the instantaneous performance of a stock is dictated by the company&#8217;s immediate quarterly results and future guidance (or its speculation, thereof). But there is another factor, the most important and the least quantifiable. <strong>Investor confidence</strong>.</p>
+
+<p>Investor confidence in the <strong>ability</strong> of Apple to perform, as it has, is irrationally low. As John Gruber <a href="http://daringfireball.net/linked/2013/04/18/apple-private-yglesias">puts</a> it:</p>
+
+<blockquote>
+<p>How low has Apple’s valuation dropped? As of today it’s <a href="http://www.businessinsider.com/apples-stock-price-2013-4">lower than Dell</a>. Wall Street thinks Dell has a brighter future than Apple.</p>
+</blockquote>
+
+<p>This is at a time when Apple has posted <a href="http://www.macworld.com/article/2025948/live-blog-apples-2013-first-quarter-earnings-call.html">the best quarter</a> it has ever had, market share (the <em>bitch-metric</em> which people loudly yell about, all the time) is actually <em>rising</em>, rumors of new products abound and the cash pile hasn&#8217;t ever been <a href="http://www.cnbc.com/id/100588673">larger</a>, for <em>any</em> company in history. Even if one decides to overlook these immediate factors, Apple has a track record of impeccable execution, product-after-product. Track record of making products which people love to use, and will pay a premium for. Track record of orchestering the entire world into an incredibly intricate supply chain and delivering like clock work, year-after-year. Then, why is the perception of Apple so terrible on the street these days?</p>
+
+<h3>The reality <del>distortion</del> field</h3>
+
+<p>Steve Jobs was known to create a distortion field around his audience making them <a href="http://www.businessweek.com/magazine/walter-isaacson-on-steve-jobss-reality-distortion-field-10272011.html">believe ludicrous things</a>. I disagree. </p>
+
+<p>Apple is one of its kind in the history of enterprise. I do not know much about the internal details but it is pretty evident as competitors, traditionally structured companies, struggle to match. Apple&#8217;s products are so outstanding because they are. To <a href="http://www.asymco.com/2013/02/19/why-doesnt-anybody-copy-apple/">quote Horace Dediu</a>:</p>
+
+<blockquote>
+<p>But what I wonder is why there isn’t a desire to copy Apple’s product creation process. Why isn’t the catalyst for a new category or disruption put forward by another company? More precisely, why isn’t there another company which consistently re-defines categories and repeatedly, predictably even, re-defines how technology is used.
+Put another way: <em>Why is it that everyone wants to copy Apple’s products but nobody wants to copy being Apple?</em></p>
+</blockquote>
+
+<p>Apple is an extraordinary company. It needs a master story teller to present itself to the world. And Steve was one. Steve was Apple and Apple was Steve. We almost never heard anything about anyone or anything else at Apple. This has changed now. And the media and investors are not used to that. The internal details bother them. They do not believe that Apple can execute without Steve. They do not believe that it took the entire company working in lockstep to create the products they did and that the same is still there. It&#8217;s a shitshow of irrationality.</p>
+
+<p>For what Apple is, I do not believe this bothers them. This does not affect their ability to create the best products in the world. And given that the biggest of Apple&#8217;s stock-holders are <a href="http://finance.yahoo.com/q/mh?s=AAPL+Major+Holders">big institutional investors</a>, the volatility will remain. This trough will invert itself, come the next wave of product launches. And then we will claim-chowder that <a href="http://daringfireball.net/linked/2013/04/21/jackass-or-genius">one stupid guy</a> who did not shut up.</p>

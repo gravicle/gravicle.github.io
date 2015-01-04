@@ -1,0 +1,8 @@
+---
+layout: post
+title: Twipster
+date: 2013-04-28 17:38:39.000000000 -05:00
+---
+<p><a href="http://jxnblk.com/twipster/">Twipster</a> is a great Safari/Chrome plugin to make Twitter web-app suck less. Here is a little screen-shot.</p>
+
+<p>Hat tip: <a href="http://brettterpstra.com/2013/04/19/web-excursions-for-april-19-2013/">Brett Terpstra</a></p>
