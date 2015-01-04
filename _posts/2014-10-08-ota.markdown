@@ -20,4 +20,4 @@ Also, why not update it over the air? Meaning, why not download individual files
 
 So, no, the update space requirements aren't a drunken folly! They're the consequence of thoughtfulness. What's the issue here is giving people 16GB devices in 2014. Apple might solve it by pushing out smaller updates which need to be applied in succession, but then again, many people don't even have space for a single photo on their device! A solution could be recall-style Apple Store updates. iCloud Photo Library is a solution to space problems but only if you can get over the iOS 8 bump. Apple might (somehow) back-port it to iOS 7, explain to users that their photos are going to the cloud to free up space, wait for the upload (a very tall order), and then update the devices OTA. Apple can also ask users to plug into a PC and update using iTunes. We all know how likely people are to do that! In any scenario, the outcome is going to be nasty!
 
-If anything, this will be the thorn in iOS' rosy garden.
+If anything, this will be the thorn in iOS' rosy garden someday.
