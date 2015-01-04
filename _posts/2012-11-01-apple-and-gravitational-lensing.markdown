@@ -2,7 +2,6 @@
 layout: post
 title: Apple and gravitational lensing
 date: 2012-11-01 21:40:25.000000000 -05:00
-summary: Apple garners more attention than any Hollywood celebrity or any single entity of our era. Maybe it's just a biased perception as I very deliberately avoid any and all kinds of celebrity gossips and read a little too much of Apple news. But, it's not entirely an illusion. Even the tiniest little bit that concerns the company can be found on the front pages of newspapers around the globe, at least in the developed and the developing world.
 ---
 [drop_caps]A[/drop_caps]pple garners more attention than any Hollywood celebrity or any single entity of our era. Maybe it's just a biased perception as I very deliberately avoid any and all kinds of celebrity gossips and read a little too much of Apple news. But, it's not entirely an illusion. Even the tiniest little bit that concerns the company can be found on the front pages of newspapers around the globe, at least in the developed and the developing world.
 
