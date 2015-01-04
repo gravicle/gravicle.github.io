@@ -678,10 +678,11 @@ body {
 }
 
 a {
-  text-decoration: underline;
+  color: #333333 !important;
+  text-decoration: underline !important;
 }
 a:hover {
-  
+  color: #111111;
 }
 
 .button {
