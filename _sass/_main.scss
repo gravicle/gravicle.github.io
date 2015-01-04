@@ -98,6 +98,13 @@ a.site-title {
   background-image: none !important;
 }
 
+.site-title {
+  text-align: center;
+  padding: 1.5rem 0 1.8rem 0;
+  margin: auto;
+  display: block;
+}
+
 /*
   Table styles copied from Bootstrap
   Copyright (c) 2013 Twitter, Inc
