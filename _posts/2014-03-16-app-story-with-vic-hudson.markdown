@@ -2,6 +2,7 @@
 layout: post
 title: App Story with Vic Hudson
 date: 2014-03-16 07:28:11.000000000 -05:00
+summary: This week I was on Vic Hudson's new <em>App Story</em> podcast.
 ---
 This week I was on Vic Hudson's new <em>App Story</em> podcast. It was a lot of fun!<br>
 <em>App Story</em> is where Vic interviews indie developers about their apps and how they came to be. A must subscribe!
