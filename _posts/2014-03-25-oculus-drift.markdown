@@ -2,6 +2,7 @@
 layout: post
 title: Oculus Drift
 date: 2014-03-25 16:02:04.000000000 -05:00
+summary: Facebook went ahead and bought Oculus Rift. This adds a few more billions to their Visa bill for this quarter. No big deal.
 ---
 Facebook went ahead and bought Oculus Rift. This adds a few more billions to their Visa bill for this quarter. No big deal.
 
