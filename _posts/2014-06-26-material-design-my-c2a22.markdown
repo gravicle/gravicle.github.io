@@ -2,6 +2,7 @@
 layout: post
 title: Material Design, my ¢2
 date: 2014-06-26 18:54:35.000000000 -05:00
+summary: Google's design guidelines are very good, not in a light way either. Most designers I spoke to today seem very impressed and by just looking at Google's mockups.
 ---
 <p>Google's design guidelines are very good, not in a light way either. Most designers I spoke to today seem very impressed and by just looking at Google's mockups, it makes me want to make something of that flavor. There are some rough edges but that is to be expected from such a new paradigm. So, does this mean Android is going to be pretty now? Well yes and no.</p>
 
