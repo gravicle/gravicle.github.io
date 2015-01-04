@@ -5,6 +5,8 @@ date: 2012-11-01 21:40:25.000000000 -05:00
 ---
 [drop_caps]A[/drop_caps]pple garners more attention than any Hollywood celebrity or any single entity of our era. Maybe it's just a biased perception as I very deliberately avoid any and all kinds of celebrity gossips and read a little too much of Apple news. But, it's not entirely an illusion. Even the tiniest little bit that concerns the company can be found on the front pages of newspapers around the globe, at least in the developed and the developing world.
 
+This is some more text
+
 This is great for the company. One can't even begin to quantify the monetary value of such media coverage. Before a product launches, the speculation and rumormongering escalate to such levels that even "normal" people know when a new iPhone or iPad is coming out. They might even have a cursory idea of what to expect. This is unprecedented.
 
 There is a very neat consequence of General relativity, called Gravitational Lensing. To summarize: light coming from a distant star bends around a massive object, like a black-hole or a huge aggregate of dark matter. When the bent light reaches us, we, assuming that light traces straight paths, believe that the star is somewhere else on the horizon than it actually is. The gist of the analogy that I'm trying to construct here is that light bends due to mass and presents us with a distorted version of reality.
