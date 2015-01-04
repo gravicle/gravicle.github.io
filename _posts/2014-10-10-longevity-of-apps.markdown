@@ -2,6 +2,7 @@
 layout: post
 title: Longevity of Apps
 date: 2014-10-10 20:31:24.000000000 -05:00
+summary: Brent Simmons [makes a point](http://inessential.com/2014/10/10/the_risk_of_products_failing) about indie apps and developers which can be true in some cases. However, my experience has been not that black and white.
 ---
 > Going with indie software can be safer than the alternatives.
 
