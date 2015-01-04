@@ -5,7 +5,7 @@ date: 2014-09-04 07:42:53.000000000 -05:00
 summary: Twitter erupted into its own little controversy. This time, @codinghorror got together with a bunch of smart fellas and tried to tame Markdown.
 ---
 ![](http://www.arcticencounters.net/perch/resources/writing-writing-31275199-1500-1004.jpg)
-<p>Again, twitter erupted into its own little controversy. This time, <a href="https://twitter.com/codinghorror">@codinghorror</a> got together with a bunch of smart fellas and tried to <a href="http://standardmarkdown.com">tame Markdown</a>. This has sparked a lot of flame throwing with arguments ranging from hijacking what is, supposedly, John Gruber's project to claiming that someone on the internet is a dick (you guessed that one).</p>
+<p>Again, twitter erupted into its own little controversy. This time, <a href="https://twitter.com/codinghorror">@codinghorror</a> got together with a bunch of smart fellas and tried to <a href="http://standardmarkdown.com">tame Markdown</a>. This has sparked a lot of flame throwing with arguments ranging from hijacking what is, supposedly, John Gruber's project to claiming that someone on the internet is a dick (you guessed that one!).</p>
 
 <blockquote class="twitter-tweet" lang="en"><p>Whether Gruber filed a trademark with the USPTO or not has no relevance on whether it’s a dick move to commandeer the name.</p>&mdash; Marco Arment (@marcoarment) <a href="https://twitter.com/marcoarment/status/507547724968128512">September 4, 2014</a></blockquote>
 
