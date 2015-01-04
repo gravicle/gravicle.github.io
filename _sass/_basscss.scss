@@ -679,10 +679,15 @@ body {
 
 a {
   color: #333333 !important;
-  text-decoration: underline !important;
+  text-decoration: none;
+  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0) 50%, rgba(0,0,0,0.6) 50%);
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 50%, rgba(0,0,0,0.6) 50%);
+  background-repeat: repeat-x;
+  background-size: 2px 2px;
+  background-position: 0 24px;
 }
 a:hover {
-  color: #111111;
+  
 }
 
 .button {
