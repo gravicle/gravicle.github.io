@@ -13,3 +13,5 @@ Here's more:
 
 The block ended there. Now here's a quote
 >Quote! Something nice.
+
+Here's not a quote.
