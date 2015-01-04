@@ -99,10 +99,8 @@ a.site-title {
 }
 
 .site-title {
-  text-align: center;
+  float: center;
   padding: 1.5rem 0 1.8rem 0;
-  margin: auto;
-  display: block;
 }
 
 /*
@@ -349,7 +347,7 @@ h6,
 
 @media screen and (min-width: 48em) {
   .site-header .site-title {
-    float: left;
+    
   }
 
   .meta,
@@ -443,7 +441,7 @@ h6,
   }
 
   .site-header .site-title {
-    float: center;
+    padding: 1.5rem 0 1.0rem 0;
   }
 
   .site-header .site-nav {
