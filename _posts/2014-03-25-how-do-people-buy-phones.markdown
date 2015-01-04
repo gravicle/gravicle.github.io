@@ -2,6 +2,7 @@
 layout: post
 title: How do people buy phones?
 date: 2014-03-25 15:45:55.000000000 -05:00
+summarY: HTC might have revealed another <em>great</em> phone this week. Build quality looks incredible, specs excellent, and OS clean.
 ---
 HTC might have revealed another <em>great</em> phone this week. Build quality looks incredible, specs excellent, and OS clean.
 
