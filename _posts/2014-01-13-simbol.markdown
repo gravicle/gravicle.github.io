@@ -2,7 +2,7 @@
 layout: post
 title: Simbol
 date: 2014-01-13 11:06:30.000000000 -06:00
-summary: Yesterday I launched <a href="http://culturedpixel.com/simbol/"><strong>Simbol</strong></a>, an app to quickly find and use symbols and special characters on the iPhone.
+summary: Yesterday I launched Simbol, an app to quickly find and use symbols and special characters on the iPhone.
 ---
 Yesterday I launched <a href="http://culturedpixel.com/simbol/"><strong>Simbol</strong></a>, an app to quickly find and use symbols and special characters on the iPhone. I developed the app to address one of the most annoying things about writing on iOS: finding symbols. I am a mathematics major and also study quite a lot of physics. Both require a <em>very</em> frequent use of symbols and characters which aren't found on QWERTY keyboards. OS X has a very handy keyboard and character viewer that carries a big chunk of the Unicode library. However, iOS has nothing that comes even remotely close. I created a library of LaTeX snippets in TextExpander but that mostly <a href="http://smilesoftware.com/blog/entry/how-ios-7-affects-textexpander-touch">went away</a> with iOS 7. As a result, I am practically unable to take notes on iOS in most of my classes
 
