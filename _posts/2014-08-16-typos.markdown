@@ -2,7 +2,7 @@
 layout: post
 title: Typos
 date: 2014-08-16 20:59:59.000000000 -05:00
-summary: I have always wondered why I am not so efficeint at reading materials on "the web" relative to my skill level in comprehending print or textbooks. I think I have a very substantiated hypothesis at this point.
+summary: I have always wondered why I am not so efficeint at reading materials on "the web" relative to my skill level in comprehending print or textbooks. I think I have a very substantiated hypothesis at this point
 ---
 <p>I have always wondered why I am not so efficeint at reading materials on "the web" relative to my skill level in comprehending print or textbooks (digital or otherwise). I think I have a very substantiated hypothesis at this point: typos<sup id="fnref-786:fn-1"><a href="#fn-786:fn-1" rel="footnote">1</a></sup>. I cannot pretend to be very thorough with things I write, far from it. However, typos have a measurable and disturbing effect on my comprehension while reading a piece of text.</p>
 
