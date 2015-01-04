@@ -6,7 +6,7 @@ summary: I have always wondered why I am not so efficeint at reading materials o
 ---
 <p>I have always wondered why I am not so efficeint at reading materials on "the web" relative to my skill level in comprehending print or textbooks (digital or otherwise). I think I have a very substantiated hypothesis at this point: typos<sup id="fnref-786:fn-1"><a href="#fn-786:fn-1" rel="footnote">1</a></sup>. I cannot pretend to be very thorough with things I write, far from it. However, typos have a measurable and disturbing effect on my comprehension while reading a piece of text.</p>
 
-<p>For instance, while reading this:</p>
+<p>For instance, while reading this</p>
 
 <blockquote>
   <p>You’ve already been stuck with this problem for the last 7 hours! You finally you give up and get back to your desk few hours later (after some sleep or a walk with your dog). Voi a la! You found the problem by doing nothing. Actually your mind found the problem!</p>
