@@ -2,6 +2,7 @@
 layout: post
 title: Remote Work
 date: 2014-12-29 23:40:52.000000000 -06:00
+summary: Cities have faced scaling issues since the dawn of time. It's also true that solutions like Slack and Google Hangouts make this time unlike others in the past. However, there is something to be said about in-person collaboration and workspaces which spur spontaneous inetractions.
 ---
 > In a region that prides itself on disruption and working from first principles, San Francisco’s scaling problem is pretty humorous if you look at it from the outside: otherwise smart and inventive founders continue to set up offices and try to hire or move people in the most overheated environment since there were carphones in Cadillac Allantes. This is where I feel like Paul Graham misses the most obvious solution to the problem. [∞](http://ma.tt/2014/12/how-paul-graham-is-wrong/)
 
