@@ -11,4 +11,5 @@ Here's more:
 	let a = something
 	let b = some other thing
 
-The block ended there.
+The block ended there. Now here's a quote
+>Quote! Something nice.
