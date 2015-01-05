@@ -73,11 +73,6 @@ From [Dropbox Wiki](http://www.dropboxwiki.com/tips-and-tricks/sync-other-folder
 ln -s /path/to/folder/that/you/want/to/sync/ ~/Dropbox/folder/name
 ```
 
-```objective-c
-if x > y {
-    NSLog(@"x is greater than y");
-}
-```
 
 #### Workflow to Push To Github
 You can download my Automator Workflows to push to Github from here → [Automator Workflows](http://culturedpixel.com/uploads/Github%20Push%20Workflows.zip)
