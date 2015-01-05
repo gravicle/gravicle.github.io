@@ -5,9 +5,9 @@ date: 2015-01-04 16:06:26
 summary: How to build a fully automated static blog with Jekyll and few other nice utilities running on your Mac.
 ---
 
-**NOTE: I am hosting on Github Pages currently. However, this setup can be very painlessly applied towards a self hosted site as well.**
+**NOTE**: I am hosting on Github Pages currently. However, this setup can be very painlessly applied towards a self hosted site as well.
 
-**NOTE 2: This setup requires an always-on and always-connected Mac. If you do not have access to one, this might not work for you.**
+**NOTE 2**: This setup requires an always-on and always-connected Mac. If you do not have access to one, this might not work for you.
 
 ### Why a static blog?
 
