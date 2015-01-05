@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fully Automated Jekyll Blog
-date: 2015-01-04 16:06:26.0
+date: 2015-01-04 16:06:26
 summary: How to build a fully automated static blog with Jekyll and few other nice utilities running on your Mac.
 ---
 
