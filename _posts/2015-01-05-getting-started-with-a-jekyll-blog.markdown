@@ -69,7 +69,7 @@ This one is easy. Either you can keep the entire Jekyll directory in your Dropbo
 
 From [Dropbox Wiki](http://www.dropboxwiki.com/tips-and-tricks/sync-other-folders#Mac_OS_X):
 
-```bash
+```sh
 ln -s /path/to/folder/that/you/want/to/sync/ ~/Dropbox/folder/name
 ```
 
