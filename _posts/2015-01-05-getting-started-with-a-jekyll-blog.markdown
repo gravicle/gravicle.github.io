@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started With a Jekyll Blog
+title: Fully Automated Jekyll Blog
 date: 2015-01-04 16:06:26.0
 summary: How to build a fully automated static blog with Jekyll.
 ---
