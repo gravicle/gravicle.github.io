@@ -69,7 +69,7 @@ This one is easy. Either you can keep the entire Jekyll directory in your Dropbo
 
 From [Dropbox Wiki](http://www.dropboxwiki.com/tips-and-tricks/sync-other-folders#Mac_OS_X):
 
-    ln -s /path/to/folder/that/you/want/to/sync/ ~/Dropbox/folder/name
+
 
 ##### Workflow to Push To Github
 You can download my Automator Workflows to push to Github from here → [Automator Workflows](http://culturedpixel.com/uploads/Github%20Push%20Workflows.zip)
