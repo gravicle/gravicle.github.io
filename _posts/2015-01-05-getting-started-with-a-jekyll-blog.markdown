@@ -17,7 +17,7 @@ At this point, I have tried most of the "CMS"es; Wordpress, Ghost, Tumblr, Mediu
 
 **Intuitive**: In context of writing, intuitive to me means a setup where the act of sharing (posting) is not very different from the act of writing itself. 
 
-Wordpress, Tumblr and Medium fail at one or the other of these metrics. So, what is an ideal solution? A setup where there is no requirement for specialized or proprietary tools and where writing (which I do in Markdown files stored on Dropbox) itself is publishing. The setup I am describing here, using Jekyll, fits in well!
+Wordpress, Tumblr and Medium fail at one or the other of these metrics. So, what is an ideal solution? A setup where there is no requirement for specialized or proprietary tools every time I need to write something and where writing (which I do in Markdown files stored on Dropbox) itself is publishing. The setup I am describing here, using Jekyll, fits in well!
 
 ### Tools used
 
