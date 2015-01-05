@@ -46,15 +46,15 @@ To install a theme, just overwrite the whole repo you created in the last step a
 
 The beauty of Jekyll to me is in the Markdown files it uses for posts and their simple structure. The only requirements imposed are file-name and some [front matter](http://jekyllrb.com/docs/frontmatter/). The fact that one doesn't have to fiddle with tens of text-fields and pickers and buttons to post is just great! However, typing front-matter every time can be tedious. So, here are some tools to the rescue.
 
-##### OS X
+#### OS X
 I use Alfred very heavily. So much so that my Spotlight Shortcut ⌘-Space is mapped to Alfred (with ⌥-Space activating Spotlight). It's logical to have it run this as well. Here is a very simple workflow, adapted from [Mr. Poodle](http://frederikvoigt.de/2014/07/08/Mr-Poole---An-Alfred-Workflow-for-Jekyll-Sites/) which does a lot more, like build site as well. For my use case, I only need the ability to create a new draft with the right file name and front matter, publish it and open other drafts and posts. So, here is the simplified version: [Jekyll Alfred Workflow](http://culturedpixel.com/uploads/Jekyll.alfredworkflow). Please be sure to change the variables to the right file paths in the workflow or it will not work!
 
-##### iOS
+#### iOS
 I use [Editorial by Ole Zorn](http://omz-software.com/editorial/) for pretty much all text handling on iOS. It's support for [workflows](http://www.editorial-workflows.com) is incredible and very handy. In this case, I use an adapted version of @josiahwiebe's workflow. You can find it here in the Editorial Workflows Directory: [New Jekyll Post in Dropbox ](http://www.editorial-workflows.com/workflow/5797754072727552/auAEu7A0Rmg).
 
 This workflow will create a new `.markdown` file in the specified directory (which you can set in the python script near the end of the workflow) with time stamp and title in the file name. It will also populate the front matter and you can then start writing!
 
-##### Windows
+#### Windows
 Get outta here!
 
 ### Automatic Publishing
@@ -64,7 +64,7 @@ Automated publishing takes a bit of work to set up and requires that the host ma
 **So, here is what happens:** Whenever a post/draft is updated, created, or deleted, a hazel rule is matched. That Hazel rule then runs an Automator Workflow. This workflow first commits and pushes the repository to your Github account and then sends you a confirmation message over iMessage.
 **Here is how it appears to you:** You edit a post and you get a text (from yourselves) with the time stamp of the publish date. You can then visit your blog and see the live content. *Simple!*
 
-##### Setup Posts Sync
+#### Setup Posts Sync
 This one is easy. Either you can keep the entire Jekyll directory in your Dropbox account or, like me, you can symlink the `_posts` and `_drafts` folders to Dropbox to sync them and noting else.
 
 From [Dropbox Wiki](http://www.dropboxwiki.com/tips-and-tricks/sync-other-folders#Mac_OS_X):
@@ -74,12 +74,12 @@ From [Dropbox Wiki](http://www.dropboxwiki.com/tips-and-tricks/sync-other-folder
     ln -s /path/to/folder/that/you/want/to/sync/ ~/Dropbox/folder/name
 {% endhighlight %}
 
-##### Workflow to Push To Github
+#### Workflow to Push To Github
 You can download my Automator Workflows to push to Github from here → [Automator Workflows](http://culturedpixel.com/uploads/Github%20Push%20Workflows.zip)
 
 I just keep these on a level above the Jekyll directory. They will be run by Hazel, as you willl see in the next step. Before moving on, open the workflows in Automator and set the required variables in the bash script as well as iMessage AppleScript. Also, setup Github command line configuration on your Mac to use your account, if you don't have it already configured. [help.github.com](https://help.github.com/articles/set-up-git/).
 
-##### Hazel Rule to Watch for Updates
+#### Hazel Rule to Watch for Updates
 If you do not already have Hazel, you can download a trial from [Noodlesoft](http://www.noodlesoft.com/hazel.php). It's an incredibly handy tool to have! Also, why Hazel? Why not just use Automator's Folder Actions? That's because Folder Actions can only detect additions or removal of files in a folder and not updates to existing files' contents, which is a big part of blogging.
 
 Once you have Hazel installed, add your `_posts_` and `_drafts` folders to it and then import the respective rules. In the rules, edit the bash script to point things to the right directories. Then also make sure to select the Automator Workflows for Hazel to run.
