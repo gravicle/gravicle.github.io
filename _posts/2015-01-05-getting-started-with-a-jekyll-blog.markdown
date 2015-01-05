@@ -2,7 +2,7 @@
 layout: post
 title: Fully Automated Jekyll Blog
 date: 2015-01-04 16:06:26.0
-summary: How to build a fully automated static blog with Jekyll.
+summary: How to build a fully automated static blog with Jekyll and few other nice utilities running on your Mac.
 ---
 
 **NOTE: I am hosting on Github Pages currently. However, this setup can be very painlessly applied towards a self hosted site as well.**
