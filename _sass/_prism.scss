@@ -35,7 +35,12 @@ $font_3: monospace;
 	//Instead of the line below you could use @includeword-break($value)
 	word-break: normal;
 	line-height: 1.5;
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
 	tab-size: 4;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
 	//Instead of the line below you could use @includehyphens($value)
 	hyphens: none;
 }
