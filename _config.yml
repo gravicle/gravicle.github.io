@@ -30,11 +30,24 @@ paypal_url:
 flattr_button:
 
 # Build settings
-permalink: 		pretty 
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+permalink: pretty 
+markdown:  KramdownPygments
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
 permalink:    pretty
 paginate:     5
 sass:
   compressed: true
+
+# FTP
+ftp_host: 'ftp.culturedpixel.com'
+ftp_dir: '/spinhalf'
+ftp_passive: false
+ftp_port: 21
+ftp_username: 'gravicle@culturedpixel.com'
+ftp_password: 'principia'

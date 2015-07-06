@@ -49,7 +49,7 @@ h3, .h3, .f3 {
 }
 
 p, .p, .f4, h4, h5, h6, dl, ol, ul {
-  font-size: 1.125rem;
+  font-size: 1.3rem;
   line-height: 1.5rem;
 }
 
@@ -472,6 +472,11 @@ strong, .bold {
   a { 
     background-position: 0 20px; 
   }
+
+  p, .p, .f4, h4, h5, h6, dl, ol, ul {
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+  }
 }
 .button {
   font-family: inherit;
@@ -689,7 +694,7 @@ a {
   background-image: linear-gradient(to bottom, rgba(0,0,0,0) 50%, rgba(0,0,0,0.6) 50%);
   background-repeat: repeat-x;
   background-size: 2px 2px;
-  background-position: 0 20.8px;
+  background-position: 0 24px;
 }
 a:hover {
   color: #222222;

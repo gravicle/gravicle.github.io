@@ -32,7 +32,7 @@ Wordpress, Tumblr and Medium fail at one or the other of these metrics. So, what
 
 ### Getting started with Jekyll
 
-Jekyll is a static site generator, that you can run on any machine with Ruby installed. I chose to host on [Github Pages](https://pages.github.com), which are built using Jekyll. Hence, all it takes is pushing your changes to a repository and Github generates and (near instantly) makes the new site live. As such, there is nary a need to setup Jekyll on your local machine or install any of the dependencies[^fn-1]. Now, to setup using Github Pages, here is a very simple and easy to follow tutorial on [Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/). Do not bother to customize anything at this point as you might need to overwrite everything when theming.
+Jekyll is a static site generator, that you can run on any machine with Ruby installed. I chose to host on [Github Pages](https://pages.github.com), which are built using Jekyll. Hence, all it takes is pushing your changes to a repository and Github generates and (near instantly) makes the new site live. As such, there is nary a need to setup Jekyll on your local machine or install any of the dependencies[^1]. Now, to setup using Github Pages, here is a very simple and easy to follow tutorial on [Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/). Do not bother to customize anything at this point as you might need to overwrite everything when theming.
 
 Once you have the blog created and published, follow on to automate and customize the setup.
 
@@ -40,7 +40,7 @@ Once you have the blog created and published, follow on to automate and customiz
 
 Jekyll has some nice themes. Granted, the collection is nowhere near as expansive as for, say, Wordpress, some good ones can be found on [Jekyll Themes](http://jekyllthemes.org), and they are free! This blog, as of this writing on 01/04/2015 uses [Pixyll](http://jekyllthemes.org/themes/pixyll/) by [John Otander](http://johnotander.com) with some modifications.
 
-To install a theme, just overwrite the whole repo you created in the last step and modify `_config.yml` file[^fn-2] to fit your preferences[^fn-3]. Editing CSS can be a little unconventional if you do not know about with preprocessors like [SCSS](http://sass-lang.com). However, they are written in not too different a syntax relative to CSS and it shouldn't be much of an issue. Elements can be distributed over different files. So, just perform a Finder search for what you are looking for, for example `site-title`, and edit the files which show up. Page templates are set in small HTML files using the [Liquid](https://github.com/Shopify/liquid/wiki) teplate engine. Again, it's not too difficult to understand. For editing purposes, just inspect what you want to edit in inspector in your browser, find the `class` or `id` name, search in Finder and edit the files[^fn-4].
+To install a theme, just overwrite the whole repo you created in the last step and modify `_config.yml` file[^2] to fit your preferences[^3]. Editing CSS can be a little unconventional if you do not know about with preprocessors like [SCSS](http://sass-lang.com). However, they are written in not too different a syntax relative to CSS and it shouldn't be much of an issue. Elements can be distributed over different files. So, just perform a Finder search for what you are looking for, for example `site-title`, and edit the files which show up. Page templates are set in small HTML files using the [Liquid](https://github.com/Shopify/liquid/wiki) teplate engine. Again, it's not too difficult to understand. For editing purposes, just inspect what you want to edit in inspector in your browser, find the `class` or `id` name, search in Finder and edit the files[^4].
 
 ### Automated Post Templates
 
@@ -69,11 +69,11 @@ This one is easy. Either you can keep the entire Jekyll directory in your Dropbo
 
 From [Dropbox Wiki](http://www.dropboxwiki.com/tips-and-tricks/sync-other-folders#Mac_OS_X):
 
-{% highlight sh %}
+```sh
 ln -s /path/to/folder/that/you/want/to/sync/ ~/Dropbox/folder/name
-{% endhighlight %}
+```
 
-#### Workflow to Push To Github
+#### Workflow to Push to Github
 You can download my Automator Workflows to push to Github from here → [Automator Workflows](http://culturedpixel.com/uploads/Github%20Push%20Workflows.zip)
 
 I just keep these on a level above the Jekyll directory. They will be run by Hazel, as you willl see in the next step. Before moving on, open the workflows in Automator and set the required variables in the bash script as well as iMessage AppleScript. Also, setup Github command line configuration on your Mac to use your account, if you don't have it already configured. [help.github.com](https://help.github.com/articles/set-up-git/).
@@ -83,16 +83,16 @@ If you do not already have Hazel, you can download a trial from [Noodlesoft](htt
 
 Once you have Hazel installed, add your `_posts_` and `_drafts` folders to it and then import the respective rules. In the rules, edit the bash script to point things to the right directories. Then also make sure to select the Automator Workflows for Hazel to run.
 
-Here is how the Hazel rule functions: Whenever Hazel detects a change to the directory, it calls the script. The script then computes a hash of that directory('s tar archive) and matches it against the last computed hash (this is stored in the hash file. You should give these files a directory in a level above your Jekyll directory). If the hash matches, then the script aborts the rule and nothing happens, as the folder has not really changed and Hazel was stimulated for other reasons. However, if the hash is indeed different, the rule will report a match and continue to run the Automator Workflow[^fn-5]. 
+Here is how the Hazel rule functions: Whenever Hazel detects a change to the directory, it calls the script. The script then computes a hash of that directory('s tar archive) and matches it against the last computed hash (this is stored in the hash file. You should give these files a directory in a level above your Jekyll directory). If the hash matches, then the script aborts the rule and nothing happens, as the folder has not really changed and Hazel was stimulated for other reasons. However, if the hash is indeed different, the rule will report a match and continue to run the Automator Workflow[^5]. 
 
 ### That's All Folks!
-With this setup, now I edit or create posts on my iPhone, or on my other Macs, and instantly receive notification that it was published[^fn-6]. As a matter of fact, I can blog from any machine with a browser (access Dropbox and upload a text file), not unlike all the other blogging engines.
+With this setup, now I edit or create posts on my iPhone, or on my other Macs, and instantly receive notification that it was published[^6]. As a matter of fact, I can blog from any machine with a browser (access Dropbox and upload a text file), not unlike all the other blogging engines.
 
 I think, finally, I have a blogging setup that is very simple and frictionless and independent of finicky iOS apps or overachieving  websites. I have long wanted something like this and now, [here](https://github.com/gravicle/gravicle.github.io) it is!
 
-[^fn-1]: However, if you wish to do so, docs on [Jekyllrb.com](http://jekyllrb.com/docs/home/) are more than sufficient.
-[^fn-2]: It's just a text file. Set it up to open with Sublime text and you should be good!
-[^fn-3]: The setup can be little bit more involved if your theme has dependencies like [this one](https://mademistakes.com/articles/minimal-mistakes-jekyll-theme/#installation). It's still quite simple.
-[^fn-4]: This is actually *the* way front-end development works.
-[^fn-5]: While one can just use the `Date Last Modified` > `did change` rule to match instead of the shell script, in practice I found it quite buggy!
-[^fn-6]: Albeit, the pushing of the repository is near-instant, Github Pages can still take a slight bit of time to actually generate the pages and then make the changed site live.
+[^1]: However, if you wish to do so, docs on [Jekyllrb.com](http://jekyllrb.com/docs/home/) are more than sufficient.
+[^2]: It's just a text file. Set it up to open with Sublime text and you should be good!
+[^3]: The setup can be little bit more involved if your theme has dependencies like [this one](https://mademistakes.com/articles/minimal-mistakes-jekyll-theme/#installation). It's still quite simple.
+[^4]: This is actually *the* way front-end development works.
+[^5]: While one can just use the `Date Last Modified` > `did change` rule to match instead of the shell script, in practice I found it quite buggy!
+[^6]: Albeit, the pushing of the repository is near-instant, Github Pages can still take a slight bit of time to actually generate the pages and then make the changed site live.
